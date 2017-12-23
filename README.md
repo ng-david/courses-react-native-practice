@@ -11,7 +11,9 @@ A simple mobile application that filters and lists Lynda courses from a local JS
 ## Quick Start
 
 `$ npm install`
+
 `$ react-native link`
+
 `$ react-native run-ios`
 
 ## TODO
